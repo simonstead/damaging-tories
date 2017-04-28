@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.App {
+  text-align: center;
+  font-family: 'Lato';
+}
+
+a {
+  text-decoration: none;
+  color: slateblue;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

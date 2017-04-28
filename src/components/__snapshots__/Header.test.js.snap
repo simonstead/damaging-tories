@@ -1,0 +1,8 @@
+exports[`test always renders the same 1`] = `
+<div
+  className="Header">
+  <h1>
+    Damaging Conservatives
+  </h1>
+</div>
+`;

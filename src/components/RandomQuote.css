@@ -1,0 +1,20 @@
+.RandomQuote {
+  padding: 0;
+}
+
+.RandomQuote > *:not(.Buttons) {
+  margin: 1em;
+  border-bottom: 1px solid lightgray;
+}
+
+Button {
+  padding: 1rem;
+  margin: 1rem;
+  color: white;
+  background-color: #00a1cc;
+  font-family: 'Lato';
+  font-size: 1em;
+  border-radius: 5px;
+  border: 0px;
+  cursor: pointer;
+}
