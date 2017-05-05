@@ -1,15 +1,15 @@
 const data = [
   {
     "id": 0,
-    "quote": "The Conservative party is privatising the NHS, and 84% of doctors and nurses disagree with their policies",
-    "src": "https://www.google.com",
+    "quote": "The Conservative party destroying the NHS",
+    "src": "http://www.independent.co.uk/news/uk/politics/nhs-deficit-crisis-one-chart-that-shows-how-the-nhs-is-headed-for-financial-ruin-a6687926.html",
     "author": "Simon Stead"
   },
   {
     "id": 1,
-    "quote": "This is a completely different quote about how the Tories are the worst!",
-    "src": "https://www.booooo.com",
-    "author": "Tony Robins"
+    "quote": " Return Marketing ran a “secret” campaign for the Conservatives during the 2015 election",
+    "src": "https://www.thecanary.co/2017/05/03/breaking-whistleblowers-come-forward-new-election-fraud-evidence-every-voter-needs-see/",
+    "author": "Simon Stead"
   },
   {
     "id": 2,
@@ -19,9 +19,9 @@ const data = [
   },
   {
     "id": 3,
-    "quote": "General election 2017: Ukip leader Paul Nuttall launches campaign ",
-    "src": "https://www.google.com",
-    "author": "dgfebvdcwq"
+    "quote": "The Conservatives are damaging education",
+    "src": "http://www.mirror.co.uk/news/politics/tory-heavy-watchdog-just-tore-10296697",
+    "author": "Simon Stead"
   }
 ]
 

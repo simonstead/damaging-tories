@@ -15,7 +15,6 @@ class RandomQuote extends Component {
     this.state = {
       randomQuote: randomQuote || initialQuote
     }
-
   }
 
   getRandomQuote = () => {
